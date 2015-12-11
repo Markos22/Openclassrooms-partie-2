@@ -1,5 +1,5 @@
-================================
-Git & GitHub - Partie 2 Activité
+ï»¿================================
+Git & GitHub - Partie 2 ActivitÃ©
 ================================
 
-Pour l'activité de la partie 2 du cours de @marcgg j'ai créé un site de photos avec sa mise en forme css.
+Pour l'activitÃ© de la partie 2 du cours de @marcgg j'ai crÃ©Ã© un site de photos avec sa mise en forme css.
