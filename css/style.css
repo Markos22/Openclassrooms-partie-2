@@ -10,6 +10,12 @@
 	img.thumbnail {
 		display: inline-block;
 		box-shadow: -2px -2px 15px gray;
+		transition: transform 0.3s;
+	}
+	img.thumbnail:hover{
+		z-index: 100;
+		transform: scale(1.5);
+		cursor: pointer;
 	}
 	blockquote{
 		font-style: italic;
